@@ -1,0 +1,58 @@
+{
+    "thumbFlex": {
+        "notFlexed_x": [0, 0, 6.25, 18.75],
+        "notFlexed_y": [1, 1, 1, 0],
+        "partiallyFlexed_x": [6.25, 18.75, 31.25, 43.75],
+        "partiallyFlexed_y": [0, 1, 1, 0],
+        "halfFlexed_x": [31.25, 43.75, 56.25, 68.75],
+        "halfFlexed_y": [0, 1, 1, 0],
+        "mostlyFlexed_x": [56.25, 68.75, 81.25, 93.75],
+        "mostlyFlexed_y": [0, 1, 1, 0],
+        "fullyFlexed_x": [81.25, 93.75, 100, 100],
+        "fullyFlexed_y": [0, 1, 1, 1]
+    },
+    "indexFlex": {
+        "notFlexed_x": [0, 0, 6.25, 18.75],
+        "notFlexed_y": [1, 1, 1, 0],
+        "partiallyFlexed_x": [6.25, 18.75, 31.25, 43.75],
+        "partiallyFlexed_y": [0, 1, 1, 0],
+        "halfFlexed_x": [31.25, 43.75, 56.25, 68.75],
+        "halfFlexed_y": [0, 1, 1, 0],
+        "mostlyFlexed_x": [56.25, 68.75, 81.25, 93.75],
+        "mostlyFlexed_y": [0, 1, 1, 0],
+        "fullyFlexed_x": [81.25, 93.75, 100, 100],
+        "fullyFlexed_y": [0, 1, 1, 1]
+    },
+    "pinkyFlex": {
+        "notFlexed_x": [0, 0, 6.25, 18.75],
+        "notFlexed_y": [1, 1, 1, 0],
+        "partiallyFlexed_x": [6.25, 18.75, 31.25, 43.75],
+        "partiallyFlexed_y": [0, 1 ,1 , 0],
+        "halfFlexed_x": [31.25, 43.75, 56.25, 68.75],
+        "halfFlexed_y": [0, 1, 1, 0],
+        "mostlyFlexed_x": [56.25, 68.75, 81.25, 93.75],
+        "mostlyFlexed_y": [0, 1, 1, 0],
+        "fullyFlexed_x": [81.25, 93.75, 100, 100],
+        "fullyFlexed_y": [0, 1, 1, 1]
+    },
+    "thumbForce": {
+        "noForce_x": [0, 0, 175, 525],
+        "noForce_y": [1, 1, 1, 0],
+        "lightForce_x": [175, 525, 875, 1225],
+        "lightForce_y": [0, 1, 1, 0],
+        "mediumForce_x": [875, 1225, 1575, 1925],
+        "mediumForce_y": [0, 1, 1, 0],
+        "highForce_x": [1575, 1925, 2100, 2100],
+        "highForce_y": [0, 1, 1, 1]
+    },
+    "indexForce": {
+        "noForce_x": [0, 0, 175, 525],
+        "noForce_y": [1, 1, 1, 0],
+        "lightForce_x": [175, 525, 875, 1225],
+        "lightForce_y": [0, 1, 1, 0],
+        "mediumForce_x": [875, 1225, 1575, 1925],
+        "mediumForce_y": [0, 1, 1, 0],
+        "highForce_x": [1575, 1925, 2100, 2100],
+        "highForce_y": [0, 1, 1, 1]
+    }
+}
